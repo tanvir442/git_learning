@@ -6,6 +6,6 @@
 	<title>GIT Learning</title>
 </head>
 <body>
-	<h1>GIT Learning - Beta</h1>
+	<h1>GIT Learning - Stable</h1>
 </body>
 </html>
